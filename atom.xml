@@ -41,30 +41,4 @@
     
   </entry>
   
-  <entry>
-    <title>dfgsd</title>
-    <link href="http://yoursite.com/2017/09/26/dfgsd/"/>
-    <id>http://yoursite.com/2017/09/26/dfgsd/</id>
-    <published>2017-09-26T13:22:16.000Z</published>
-    <updated>2017-10-19T13:30:40.009Z</updated>
-    
-    <content type="html"><![CDATA[<p>twer </p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;twer &lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="开始吧" scheme="http://yoursite.com/categories/%E5%BC%80%E5%A7%8B%E5%90%A7/"/>
-    
-    
-      <category term="你好" scheme="http://yoursite.com/tags/%E4%BD%A0%E5%A5%BD/"/>
-    
-  </entry>
-  
 </feed>
